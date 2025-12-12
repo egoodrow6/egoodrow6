@@ -6,7 +6,7 @@
 📈 Passionate about using technology for social good  
 🌐 Grace Hopper '25 | Girls Who Code | SWE  
 
-## 👩🏽‍💻 About Me
+## 👩‍💻 About Me
 I'm a current Junior studying Computer Science at Notre Dame with a mission to **leverage tech for impact**. My journey started with **Girls Who Code**, where I discovered my love for programming and community. Since then, I’ve been growing through programs like **Institute for Social Concerns Summer Fellowship**, **Machine Learning and Network Biology Research**, and **The Grace Hopper Celebration**.
 
 When I'm not coding, I'm involved in student orgs like **TutorND**, **Ryan Hall Sports**, and **The Learning Resource Center** on campus.
